@@ -34,3 +34,6 @@
   Objective: predict if someone will default on their credit card payments based on their sex, age and a variety of other metrics.
 
 ## Time Series Forecasting
+- [M5 Forecasting-Accuracy](https://github.com/lijing0913/Projects/tree/main/M5%20Forecasting-Accuracy)
+
+  Objective: predict item sales at Walmart stores in various locations for the next 28 days.
