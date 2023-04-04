@@ -1,0 +1,15 @@
+name: ml_mac
+channels:
+    - defaults
+dependencies:
+    - matplotlib
+    - numpy
+    - imageio
+    - scikit-learn
+    - notebook
+    - jupyterlab
+    - tensorflow
+    - pytorch
+    - keras
+    - pandas
+    - xlrd
