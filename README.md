@@ -29,7 +29,7 @@
 
 
 ## Machine Learning
-- [Credit Card Default](https://github.com/lijing0913/Machine-Learning-Projects/tree/main/Credit%20Card%20Default)
+- [Credit Card Default](https://github.com/lijing0913/Projects/tree/main/Credit%20Card%20Default)
   
   Objective: predict if someone will default on their credit card payments based on their sex, age and a variety of other metrics.
 
