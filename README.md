@@ -39,4 +39,5 @@
   Objective: predict item sales at Walmart stores in various locations for the next 28 days.
 
 - [Dataset Exercise](https://github.com/lijing0913/Projects/tree/main/Dataset%20Exercise_Time%20Series)
+
   Objective: estimate the number of distributions and characterize each for the given dataset; create an algorithm to forecast the point at time $t+1$ givven prior data points for time $\leq t$.
